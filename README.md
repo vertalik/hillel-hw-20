@@ -6,7 +6,7 @@ Rebuilded functions to ES6 and add some fitch's:
  - Modal windows.
  - Registry time (**Human**, **Car**, **Company**).
  - Date and time when car is bought.
- - Tooltip at car section in the view table
+ - Tooltip in car section in the view table
 
 ###  How to use:
 
